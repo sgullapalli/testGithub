@@ -13,5 +13,10 @@ namespace github_example.Controllers
         {
             return View();
         }
+
+        public ActionResult Create()
+        {
+            return View();
+        }
     }
 }
